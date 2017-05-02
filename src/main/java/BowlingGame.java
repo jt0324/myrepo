@@ -1,5 +1,3 @@
-package thoughtworks;
-
 public class BowlingGame {
 
     /**
